@@ -5,7 +5,10 @@
 </p>
 <h3>Sobre o Jogo</h3>
 <p>O Soft Shot é uma criação simples, porém envolvente, que permite que jogadores de todas as idades desfrutem de um passatempo divertido e desafiador. Com gráficos lúdicos e uma jogabilidade fácil de entender, você se verá imerso em um mundo de alvos fofos e coloridos.</p>
-<img src="https://github.com/MilenyClemente/SoftShot/image/PrintTela.png">
+  <center>
+    <img align="center" src="image/PrintTela.png">
+  </center>
+
 
 <h3>Objetivo do Jogo</h3>
 
