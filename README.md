@@ -1,4 +1,4 @@
-# SoftShot
+# Soft Shot
 <center>
 <p>Bem-vindo ao Soft Shot, o jogo de tiro ao alvo que traz a diversão direto para o seu navegador! 
   Desenvolvido em HTML e JavaScript, para a m este jogo cativante desafia você a aprimorar suas habilidades de mira enquanto se diverte atirando em brinquedos e bichos de pelúcia. Prepare-se para uma experiência interativa e viciante!
