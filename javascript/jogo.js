@@ -26,136 +26,136 @@ var mousePosX,
   dificuldade = 1;
 
 const startImg = new Image();
-startImg.src = "./image/start.png";
+startImg.src = "../image/start.png";
 const facilImg = new Image();
-facilImg.src = "./image/nivelFacilImg.png";
+facilImg.src = "../image/nivelFacilImg.png";
 const medioImg = new Image();
-medioImg.src = "./image/nivelMedioImg.png";
+medioImg.src = "../image/nivelMedioImg.png";
 const dificilImg = new Image();
-dificilImg.src = "./image/nivelDificilImg.png";
+dificilImg.src = "../image/nivelDificilImg.png";
 const pausaImg = new Image();
-pausaImg.src = "./image/pausa.png";
+pausaImg.src = "../image/pausa.png";
 const pausaBtnImg = new Image();
-pausaBtnImg.src = "./image/pausaBtn.png";
+pausaBtnImg.src = "../image/pausaBtn.png";
 const reiniciarImg = new Image();
-reiniciarImg.src = "./image/reiniciarImg.png";
+reiniciarImg.src = "../image/reiniciarImg.png";
 const alvoImg = new Image();
-alvoImg.src = "./image/alvo.png";
+alvoImg.src = "../image/alvo.png";
 const luzinhas = new Image();
-luzinhas.src = "./image/luzinhas.png";
+luzinhas.src = "../image/luzinhas.png";
 const logo = new Image();
-logo.src = "./image/softShotLogo.png";
+logo.src = "../image/softShotLogo.png";
 const tristeImg = new Image();
-tristeImg.src = "./image/triste.png";
+tristeImg.src = "../image/triste.png";
 
 const ursinho1 = new Image();
-ursinho1.src = "./image/ursinho.png";
+ursinho1.src = "../image/ursinho.png";
 
 const ursinho2 = new Image();
-ursinho2.src = "./image/urso-teddy.png";
+ursinho2.src = "../image/urso-teddy.png";
 
 const unicornio = new Image();
-unicornio.src = "./image/unicornio.png";
+unicornio.src = "../image/unicornio.png";
 
 const foguete = new Image();
-foguete.src = "./image/foguete.png";
+foguete.src = "../image/foguete.png";
 
 const cavalinho = new Image();
-cavalinho.src = "./image/cavalinho.png";
+cavalinho.src = "../image/cavalinho.png";
 
 const dinossauro = new Image();
-dinossauro.src = "./image/dinossauro.png";
+dinossauro.src = "../image/dinossauro.png";
 
 const yoyo = new Image();
-yoyo.src = "./image/yoyo.png";
+yoyo.src = "../image/yoyo.png";
 
 const carrinho = new Image();
-carrinho.src = "./image/carrinho.png";
+carrinho.src = "../image/carrinho.png";
 
 const pipa = new Image();
-pipa.src = "./image/pipa.png";
+pipa.src = "../image/pipa.png";
 
 const trem = new Image();
-trem.src = "./image/trem.png";
+trem.src = "../image/trem.png";
 
 const barco = new Image();
-barco.src = "./image/barco.png";
+barco.src = "../image/barco.png";
 
 const origami = new Image();
-origami.src = "./image/origami.png";
+origami.src = "../image/origami.png";
 
 //imagem para trocar
 const ursinho11 = new Image();
-ursinho11.src = "./image/ursinho+1.png";
+ursinho11.src = "../image/ursinho+1.png";
 
 const ursinho21 = new Image();
-ursinho21.src = "./image/urso-teddy+1.png";
+ursinho21.src = "../image/urso-teddy+1.png";
 
 const unicornio1 = new Image();
-unicornio1.src = "./image/unicornio+1.png";
+unicornio1.src = "../image/unicornio+1.png";
 
 const foguete1 = new Image();
-foguete1.src = "./image/foguete+1.png";
+foguete1.src = "../image/foguete+1.png";
 
 const cavalinho1 = new Image();
-cavalinho1.src = "./image/cavalinho+1.png";
+cavalinho1.src = "../image/cavalinho+1.png";
 
 const dinossauro1 = new Image();
-dinossauro1.src = "./image/dinossauro+1.png";
+dinossauro1.src = "../image/dinossauro+1.png";
 
 const yoyo1 = new Image();
-yoyo1.src = "./image/yoyo+1.png";
+yoyo1.src = "../image/yoyo+1.png";
 
 const carrinho1 = new Image();
-carrinho1.src = "./image/carrinho+1.png";
+carrinho1.src = "../image/carrinho+1.png";
 
 const pipa1 = new Image();
-pipa1.src = "./image/pipa+1.png";
+pipa1.src = "../image/pipa+1.png";
 
 const trem1 = new Image();
-trem1.src = "./image/trem+1.png";
+trem1.src = "../image/trem+1.png";
 
 const barco1 = new Image();
-barco1.src = "./image/barco+1.png";
+barco1.src = "../image/barco+1.png";
 
 const origami1 = new Image();
-origami1.src = "./image/origami+1.png";
+origami1.src = "../image/origami+1.png";
 
 const ursinho1P = new Image();
-ursinho1P.src = "./image/ursinhoP.png";
+ursinho1P.src = "../image/ursinhoP.png";
 
 const ursinho2P = new Image();
-ursinho2P.src = "./image/urso-teddyP.png";
+ursinho2P.src = "../image/urso-teddyP.png";
 
 const unicornioP = new Image();
-unicornioP.src = "./image/unicornioP.png";
+unicornioP.src = "../image/unicornioP.png";
 
 const fogueteP = new Image();
-fogueteP.src = "./image/fogueteP.png";
+fogueteP.src = "../image/fogueteP.png";
 
 const cavalinhoP = new Image();
-cavalinhoP.src = "./image/cavalinhoP.png";
+cavalinhoP.src = "../image/cavalinhoP.png";
 
 const dinossauroP = new Image();
-dinossauroP.src = "./image/dinossauroP.png";
+dinossauroP.src = "../image/dinossauroP.png";
 
 const yoyoP = new Image();
-yoyoP.src = "./image/yoyoP.png";
+yoyoP.src = "../image/yoyoP.png";
 
 const carrinhoP = new Image();
-carrinhoP.src = "./image/carrinhoP.png";
+carrinhoP.src = "../image/carrinhoP.png";
 
 const pipaP = new Image();
-pipaP.src = "./image/pipaP.png";
+pipaP.src = "../image/pipaP.png";
 
 const tremP = new Image();
-tremP.src = "./image/tremP.png";
+tremP.src = "../image/tremP.png";
 
 const barcoP = new Image();
-barcoP.src = "./image/barcoP.png";
+barcoP.src = "../image/barcoP.png";
 
 const origamiP = new Image();
-origamiP.src = "./image/origamiP.png";
+origamiP.src = "../image/origamiP.png";
 
 //obj para criar chao
 var chao = {
@@ -335,7 +335,15 @@ var alvos = {
           recursos.score++;
         }
 
+        var audioAcertou = document.getElementById("tiroCerto");
+        audioAcertou.currentTime = 0;
+        audioAcertou.play();
+
         if (recursos.score > recorde) recorde = recursos.score;
+      } else {
+        var audioErrou = document.getElementById("tiroErrado");
+        audioErrou.currentTime = 0;
+        audioErrou.play();
       }
     }
   },
@@ -474,10 +482,19 @@ var alvos2Linha = {
         alvo.disponivel
       ) {
         alvo.disponivel = false;
-        if (alvo.bloqueado == 1) {-
+        if (alvo.bloqueado == 1) {
           recursos.countErros++;
         } else recursos.score++;
+
+        var audioAcertou = document.getElementById("tiroCerto");
+        audioAcertou.currentTime = 0;
+        audioAcertou.play();
+
         if (recursos.score > recorde) recorde = recursos.score;
+      } else {
+        var audioErrou = document.getElementById("tiroErrado");
+        audioErrou.currentTime = 0;
+        audioErrou.play();
       }
     }
   },
@@ -643,9 +660,12 @@ function click() {
       alvos2Linha.limpa();
       //limpa pontuação
       recursos.reset();
+      var audioPerdeu = document.getElementById("perdedor");
+      audioPerdeu.currentTime = 0;
+      audioPerdeu.pause();
       //volta pra jogar
       estadoAtual = estados.jogar;
-    } 
+    }
   }
 }
 
@@ -718,5 +738,8 @@ function desenhar() {
     ctx.fillText("Boa sorte da próxima vez.", 150, 160);
     ctx.drawImage(tristeImg, largura / 2 - 75, altura / 2 - 75, 150, 150);
     ctx.drawImage(reiniciarImg, largura / 2 - 75, altura / 2 + 120, 150, 50);
+
+    var audioPerdeu = document.getElementById("perdedor");
+    audioPerdeu.play();
   }
 }
