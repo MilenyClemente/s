@@ -565,7 +565,6 @@ function main() {
   canvas.height = altura;
   canvas.width = largura;
   canvas.style.border = "2px solid #000";
-  canvas.style.marginTop = "2rem";
   ctx = canvas.getContext("2d");
 
   document.body.appendChild(canvas);
