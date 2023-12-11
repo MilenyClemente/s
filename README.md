@@ -16,7 +16,7 @@
 
 <h3>Como Jogar</h3>
 <p>1- Baixe o projeto em sua máquina.</p>
-<p>2- Abra a pasta do projeto em que realizou o download e abra o arquivo index.html no seu navegador preferido.</p>
+<p>2- Abra a pasta que realizou o download e abra o arquivo index.html no seu navegador preferido.</p>
 <p>3- Escolha a dificuldade em que quer jogar.</p>
 <p>4. Clique (ou toque) para disparar nos alvos na tela.</p>
 <p>5. Acompanhe sua pontuação e o número de tentativas restantes na tela.</p>
