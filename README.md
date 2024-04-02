@@ -1,13 +1,12 @@
 # Soft Shot
-<center>
+
 <p>Bem-vindo ao Soft Shot, o jogo de tiro ao alvo que traz a diversão direto para o seu navegador! 
   Desenvolvido em HTML e JavaScript, para a m este jogo cativante desafia você a aprimorar suas habilidades de mira enquanto se diverte atirando em brinquedos e bichos de pelúcia. Prepare-se para uma experiência interativa e viciante!
 </p>
 <h3>Sobre o Jogo</h3>
 <p>O Soft Shot é uma criação simples, porém envolvente, que permite que jogadores de todas as idades desfrutem de um passatempo divertido e desafiador. Com gráficos lúdicos e uma jogabilidade fácil de entender, você se verá imerso em um mundo de alvos fofos e coloridos.</p>
-  <center>
     <img align="center" src="image/PrintTela.png">
-  </center>
+
 
 
 <h3>Objetivo do Jogo</h3>
@@ -38,4 +37,4 @@
 
 <h3 align="center"> Copyright © 2023 Mileny Fernanda de Souza Clemente </h3>
 <p align="center"> Apache License - Version 2.0</p>
-</center>
+
